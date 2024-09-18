@@ -14,5 +14,3 @@ for %%A in (%*) do (
 
     echo Lossy compressed %%~nxA to !outputFile!
 )
-
-pause
